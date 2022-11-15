@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_enter_a_number">Please, enter a number</string>
+    <string name="add_text_button">Add</string>
+    <string name="clean_all_button">Clean all</string>
+</resources>
